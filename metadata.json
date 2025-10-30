@@ -1,0 +1,5 @@
+{
+  "name": "Image Editor – Editor di immagini semplice e intuitivo",
+  "description": "Un'app web che consente di caricare un’immagine, applicare correzioni base ai colori, aggiungere testo personalizzato e utilizzare l'IA per modificare e generare immagini. È possibile scaricare il risultato finale.",
+  "requestFramePermissions": []
+}
